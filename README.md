@@ -1,3 +1,3 @@
 # substrate-rust
 
-Builder image for substrate
+Rust image for building substrate
